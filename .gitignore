@@ -1,0 +1,7 @@
+node-red-data/
+influxdb-data/
+portainer-data/
+mosquitto/data/
+mosquitto/log/
+*.log
+.env
